@@ -18,6 +18,9 @@ nav .navbar-toggler-icon i{
     background-repeat: no-repeat;
     background-color: #fe1c1c;
 }
+#contacto main{
+    height: 80vh !important;
+}
 .active{
     border: 1px #E20000 solid;
     border-radius: 25px;
@@ -70,7 +73,7 @@ h1{
     font-weight: 500;
     border-radius: 25px;
 }
-.btn:hover{
+#contacto .btn:hover{
     color: white;
     background-color: #370A6D;
 }
