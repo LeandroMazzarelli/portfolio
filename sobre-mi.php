@@ -16,7 +16,7 @@ $pagina = "sobre-mi";
                                 <a href="https://github.com" target="_blank" title="Github"><i class="fab fa-github"></i></a>
                                 <a href="" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a>
                             </div>
-                            <div class="col-xs-12 col-md-6 btn btn-rojo">
+                            <div class="col-xs-12 col-md-6 btn-h btn-rojo">
                                 <a href="">Descargar mi CV</a>
                             </div>
                         </div>
@@ -231,8 +231,8 @@ $pagina = "sobre-mi";
         <div class="container">
             <div class="row mt-5">
                 <div class="col-12 col-sm-3">
-                    <i class="fab fa-github"></i>
-                    <i class="fab fa-linkedin-in"></i>
+                    <a href="https://github.com/leandromazzarelli1?tab=overview&from=2020-12-01&to=2020-12-31" target="_blank" title="Github"><i class="fab fa-github"></i></a>
+                    <a href="https://www.linkedin.com/in/leandro-armando-mazzarelli-4b2ba71b3/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                 </div>
                 <div class="col-12 col-sm-3">
                     <span class="sponsor">Sponsor</span> <a href="https://depcsuite.com/" target="_blank">DePC Suite</a>

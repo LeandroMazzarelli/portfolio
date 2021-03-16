@@ -34,7 +34,7 @@
                         <a class="nav-link <?php echo $pagina == "contacto"? "active" : "" ?>" href="contacto.php">Contacto</a>
                     </li>
                 </ul>
-                <div class="btn btn-rojo">
+                <div class="btn-h btn-rojo">
                     <a href="http://">
                     Descarga mi CV
                     <i class="fas fa-download"></i>

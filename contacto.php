@@ -92,9 +92,8 @@
         <div class="container">
             <div class="row mt-5">
                 <div class="col-12 col-sm-3">
-                    <i class="fab fa-github"></i>
-                    <i class="fab fa-linkedin-in"></i>
-                </div>
+                    < <a href="https://github.com/leandromazzarelli1?tab=overview&from=2020-12-01&to=2020-12-31" target="_blank" title="Github"><i class="fab fa-github"></i></a>
+                    <a href="https://www.linkedin.com/in/leandro-armando-mazzarelli-4b2ba71b3/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                 <div class="col-12 col-sm-3 sponsor">
                     <span class="text-light sponsor">Sponsor</span> <a href="https://depcsuite.com/" target="_blank">DePC Suite</a>
                 </div>

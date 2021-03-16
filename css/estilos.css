@@ -78,6 +78,12 @@ h1{
     background-color: #370A6D;
 }
 
+/* header */
+.btn-h:hover{
+    color: white;
+    background-color: #370A6D;
+}
+
 /* proyecto */
 
 #proyectos{
@@ -89,10 +95,6 @@ h1{
 #proyectos img{
     height: 150px;
     width: 350px;
-}
-#proyectos header .btn-rojo{
-    padding: 2px 2px !important;
-    color: white;
 }
 #proyectos h2{
     font-size: 16px;
@@ -222,6 +224,10 @@ h1{
     margin: 0 25px 25px 0;
     border-radius: 25px;
     font-weight: 500;
+}
+#sobre-mi #estudios .btnEmpresa:hover{
+    color: white;
+    background-color: #370A6D;
 }
 /* footer */
 
