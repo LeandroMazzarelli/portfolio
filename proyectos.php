@@ -78,16 +78,14 @@ $pagina = "proyectos";
                         <i class="fab fa-github"></i>
                         <i class="fab fa-linkedin-in"></i>
                     </div>
-                    <div class="col-12 col-sm-3 sponsor">
-                        <span class="text-light sponsor">Sponsor</span> <a href="https://depcsuite.com/" target="_blank">DePC Suite</a>
+                    <div class="col-12 col-sm-3">
+                    <span class="sponsor">Sponsor</span> <a href="https://depcsuite.com/" target="_blank">DePC Suite</a>
                     </div>
                     <div class="col-12 col-sm-3">
-                        <a href="#">leandromazza19@gmail.com</a>
+                        <a href="mailto:leandromazza19@gmail.com">leandromazza19@gmail.com</a>
                     </div>
                     <div class="col-12 col-sm-3 caja">
-                        <a href="http://">
-                            <i class="fab fa-whatsapp"></i>
-                        </a>
+                    <a href="https://api.whatsapp.com/send?phone=541139565683&text=¡Hola! Me gustaría ponerme en contacto contigo." title="Whatsapp"><i class="fab fa-whatsapp"></i></a>
                     </div>
                 </div>
             </div>

@@ -67,7 +67,7 @@
             </div>
             <div class="row">
                 <div class="col-12 col-sm-6">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam nihil ratione numquam laudantium, dolorum corporis quas possimus, ea voluptas commodi porro nesciunt officia excepturi officiis. Quod delectus distinctio cumque cupiditate.</p>
+                    <p>Para mas detalles sobre mi trabajo poder ver mi <a href="https://www.linkedin.com/in/gianfranco-rocco/" target="_blank">LinkedIn</a> o mandame un mensaje.</p>
                 </div>
                 <div class="col-12 col-sm-6">
                     <form class="form-group" action="" method="post">
@@ -102,9 +102,7 @@
                     <a href="#">leandromazza19@gmail.com</a>
                 </div>
                 <div class="col-12 col-sm-3 caja">
-                    <a href="http://">
-                        <i class="fab fa-whatsapp"></i>
-                    </a>
+                    <a href="https://api.whatsapp.com/send?phone=541139565683&text=¡Hola! Me gustaría ponerme en contacto contigo." title="Whatsapp"><i class="fab fa-whatsapp"></i></a>
                 </div>
             </div>
         </div>

@@ -120,7 +120,7 @@ h1{
 }
 
 #inicio #input-container{
-    padding-top: 350px;
+    padding-top: 450px;
 }
 
 #inicio .input-home{
@@ -181,19 +181,47 @@ h1{
 }
 #sobre-mi .bg-white{
     border-radius: 15px;
-    height: 200px
+}
+#sobre-mi .bg-purple{
+    background-color: #370a6d;
+    height: 100%;
+    border-radius: 15px;
+}
+#sobre-mi .icon{
+    color: white;
+    font-size: 70px;
+}
+#sobre-mi .icon-2{
+    font-size: 70px;
+    color: #e20000;
 }
 #sobre-mi #main-mi img{
     padding: 0px !important;
 }
-#sobre-mi #estudios{
-    background-color: #ededed;
-}
 #sobre-mi .bg-gray{
-    background-color: #fff;
+    background-color: #ededed;
 }
 #sobre-mi .bg-gray .container {
     padding: 80px 0;
+}
+#sobre-mi .empresas{
+    width: 90px;
+    border: 1px solid #000;
+    border-radius: 50%;
+    margin: 20px auto;
+}
+#sobre-mi .box-shadow{
+    box-shadow: 3px 3px 15px rgb(100 99 99);
+    border-radius: 15px;
+}
+#sobre-mi #estudios .btnEmpresa {
+    background-color: #e20000;
+    font-size: 13px;
+    color: #fff;
+    padding: 10px 25px;
+    margin: 0 25px 25px 0;
+    border-radius: 25px;
+    font-weight: 500;
 }
 /* footer */
 
@@ -234,8 +262,7 @@ footer a, footer p{
     color: white !important;
     font-size: 13px;
 }
-#proyectos footer a, #proyectos footer p{
-    display: block;
+#proyectos footer a, #proyectos footer span{
     color: #E20000 !important;
     font-size: 13px;
 }

@@ -1,10 +1,21 @@
 <?php
-    $titulo = "Contacto";
-    $pagina = "contacto";
-
     include_once("header.php");
     include_once ("PHPMailer/src/PHPMailer.php");
     include_once ("PHPMailer/src/SMTP.php");
+    
+    
+    $titulo = "Gracias por contactarte";
+    $pagina = "contacto";
+
+    function guardarCorreo($correo){
+        $archivo = fopen("mails.txt", "a+"); 
+        fwrite($archivo, $correo . ";\n"); //En linux \r
+        fclose($archivo);
+    }    
+
+    if($_POST["txtCorreo"]){
+        guardarCorreo($_POST["txtCorreo"]);
+    }
 ?>
 <main>
         <div class="container">

@@ -9,15 +9,15 @@ $pagina = "sobre-mi";
             <div class="row">
                 <div class="col-sm-5 col-12 mt-4">
                     <h1 class="mt-sm-4 pb-sm-4">Sobre mí</h1>
-                    <p class="pb-sm-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, saepe ex, vero quae velit, doloribus delectus odit reprehenderit ut nostrum molestias. Dicta fugit harum natus odio quia, incidunt possimus doloremque!</p>
-                    <div class="col-12 col-sm-12 col-md-6 pt-md-5 pt-0 pb-5">
+                    <p class="pb-sm-5">Desarrollar Full Stack interesado en incorporar nuevas herramientas para desarrollarme profesionalmente.</p>
+                    <div class="col-12 col-sm-12 pt-md-5 pt-0 pb-5">
                         <div class="row">
                             <div class="col-xs-12 col-md-6 text-center">
                                 <a href="https://github.com" target="_blank" title="Github"><i class="fab fa-github"></i></a>
                                 <a href="" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a>
                             </div>
-                            <div class="col-xs-12 col-md-6">
-                                <a href="" class="btn btn-rojo">Descargar mi CV</a>
+                            <div class="col-xs-12 col-md-6 btn btn-rojo">
+                                <a href="">Descargar mi CV</a>
                             </div>
                         </div>
                     </div>
@@ -28,7 +28,7 @@ $pagina = "sobre-mi";
             </div>
         </div>    
         <div class="bg-red pb-2 pb-md-5 tecnologias">
-            <div class="container-fluid pb-4 ">
+            <div class="container pb-4 ">
                 <div class="row mb-2 mb-md-5">
                     <div class="col-12">
                         <div class="mt-5 text-light">
@@ -118,16 +118,16 @@ $pagina = "sobre-mi";
                 </div>               
             </div>       
         </div>
-        <div class="bg-gray">
+        <div id="hobbies"class="bg-gray">
             <div class="container">
                 <div class="p-3 p-md-0">
                     <div class="row">
                         <div class="col-12 col-md-6 col-lg-6">
-                            <div class="box-shadow mb-4 lang">
+                            <div class="shadow bg-white mb-4 lang">
                                 <div class="row" style="min-height: 152px;">
                                     <div class="col-5 col-sm-4 text-center">
                                         <div class="bg-purple">
-                                            <i class="fas fa-comment-alt"></i>   
+                                            <i class="fas fa-comment-alt icon pt-5"></i>   
                                         </div>                                                    
                                     </div>
                                     <div class="col-7 col-sm-8">
@@ -147,13 +147,12 @@ $pagina = "sobre-mi";
                                 </div> 
                             </div>
                         </div>
-                            
                         <div class="col-12 col-md-6">
-                            <div class="box-shadow hobbies">
+                            <div class="shadow bg-white">
                                 <div class="row" style="min-height: 152px;">
                                     <div class="col-5 col-sm-4 text-center">
                                         <div class="bg-purple">
-                                            <i class="fas fa-star"></i>      
+                                            <i class="fas fa-star icon pt-4 mt-3"></i>      
                                         </div>                                                 
                                     </div>
                                     <div class="col-7 col-sm-8">
@@ -176,26 +175,24 @@ $pagina = "sobre-mi";
             </div> 
         </div>
         <section id="estudios">
-            <div class="container">
-    
+            <div class="container py-5">
                 <div class="p-3 p-md-0">
                     <div class="row pb-md-5 pb-4">
                         <div class="col-3 col-md-2 col-lg-1 text-center">
-                            <i class="fas fa-graduation-cap icon"></i>
+                            <i class="fas fa-graduation-cap icon-2"></i>
                         </div>
                         <div class="col-9 col-md-10 col-lg-11">
                             <h2 class="estudios">Estudios</h2>
                         </div>                
                     </div>
-    
                     <div class="row">
                         <div class="col-md-12 col-lg-6">
-                            <div class="box-shadow mx-1" style="background-color: #fff;">
+                            <div class="box-shadow mx-1">
                                 <div class="p-1">
                                     <div class="row" style="min-height: 152px;">
                                         <div class="col-12 col-md-3 text-center">
                                             <div class="m-md-2 m-0">
-                                                <img src="images/empresas/depc.png" alt="DePC Suite" class="empresas">
+                                                <img src="images/depc.png" alt="DePC Suite" class="empresas">
                                             </div>                                                   
                                         </div>
                                         <div class="col-12 col-md-9 text-md-left text-center">
@@ -244,9 +241,7 @@ $pagina = "sobre-mi";
                     <a href="mailto:leandromazza19@gmail.com">leandromazza19@gmail.com</a>
                 </div>
                 <div class="col-12 col-sm-3 caja">
-                    <a href="http://">
-                        <i class="fab fa-whatsapp"></i>
-                    </a>
+                <a href="https://api.whatsapp.com/send?phone=541139565683&text=¡Hola! Me gustaría ponerme en contacto contigo." title="Whatsapp"><i class="fab fa-whatsapp"></i></a>
                 </div>
             </div>
         </div>
