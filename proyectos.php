@@ -12,8 +12,8 @@ $pagina = "proyectos";
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-12 col-sm-6">
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam nihil ratione numquam laudantium, dolorum corporis quas possimus, ea voluptas commodi porro nesciunt officia excepturi officiis. Quod delectus distinctio cumque cupiditate.</p>
+                    <div class="col-12 col-sm-6 mb-5">
+                        <p>Apasionado por la tecnología y gestión de proyectos. Soy docente de cursos de programación Full Stack y de Base de datos.</p>
                     </div>
                 </div>
                 <div class="row">
@@ -29,7 +29,7 @@ $pagina = "proyectos";
                                 </div>
                             </div>
                             <div class="row py-3 ml-1">
-                                <div class="col-6"><a href="" class="btn btn-rojo text-light" target="_blank">Ver online</a></div>
+                                <div class="col-6"><a href="" class="btn btn-h btn-rojo text-light" target="_blank">Ver online</a></div>
                                 <div class="col-6"><a href="" class="link-rojo" target="_blank">Código fuente</a></div>
                             </div>
                         </div>
@@ -46,7 +46,7 @@ $pagina = "proyectos";
                                 </div>
                             </div>
                             <div class="row py-3 ml-1">
-                                <div class="col-6"><a href="" class="btn btn-rojo text-light" target="_blank">Ver online</a></div>
+                                <div class="col-6"><a href="" class="btn btn-h btn-rojo text-light" target="_blank">Ver online</a></div>
                                 <div class="col-6"><a href="" class="link-rojo" target="_blank">Código fuente</a></div>
                             </div>
                         </div>
@@ -63,7 +63,7 @@ $pagina = "proyectos";
                                 </div>
                             </div>
                             <div class="row py-3 ml-1">
-                                <div class="col-6 "><a href="" class="btn btn-rojo text-light" target="_blank">Ver online</a></div>
+                                <div class="col-6 "><a href="" class="btn btn-h btn-rojo text-light" target="_blank">Ver online</a></div>
                                 <div class="col-6"><a href="" class="link-rojo" target="_blank">Código fuente</a></div>
                             </div>
                         </div>
