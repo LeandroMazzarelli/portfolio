@@ -13,8 +13,8 @@ $pagina = "sobre-mi";
                     <div class="col-12 col-sm-12 pt-md-5 pt-0 pb-5">
                         <div class="row">
                             <div class="col-xs-12 col-md-6 text-center">
-                                <a href="https://github.com" target="_blank" title="Github"><i class="fab fa-github"></i></a>
-                                <a href="" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a>
+                                 <a href="https://github.com/leandromazzarelli1?tab=overview&from=2020-12-01&to=2020-12-31" target="_blank" title="Github"><i class="fab fa-github"></i></a>
+                    <a href="https://www.linkedin.com/in/leandro-armando-mazzarelli-4b2ba71b3/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                             </div>
                             <div class="col-xs-12 col-md-6 btn-h btn-rojo">
                                 <a href="">Descargar mi CV</a>
