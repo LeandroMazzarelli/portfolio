@@ -33,26 +33,5 @@
             </div>
         </div>
     </main>
-    <footer>
-        <div class="container">
-            <div class="row mt-5">
-                <div class="col-12 col-sm-3">
-                    <i class="fab fa-github"></i>
-                    <i class="fab fa-linkedin-in"></i>
-                </div>
-                <div class="col-12 col-sm-3 sponsor">
-                    <span class="text-light sponsor">Sponsor</span> <a href="https://depcsuite.com/" target="_blank">DePC Suite</a>
-                </div>
-                <div class="col-12 col-sm-3">
-                    <a href="#">leandromazza19@gmail.com</a>
-                </div>
-                <div class="col-12 col-sm-3 caja">
-                    <a href="http://">
-                        <i class="fab fa-whatsapp"></i>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </footer>
 </body>
 </html>
