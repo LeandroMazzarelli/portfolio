@@ -21,17 +21,17 @@
         
             <div class="collapse navbar-collapse" id="navbarsExampleDefault">
                 <ul class="navbar-nav mr-auto">
-                    <li class="nav-item">
-                    <a class="nav-link <?php echo $pagina == "inicio"? "active" : "" ?>" href="index.php">Inicio</a>
+                    <li class="my-2 nav-item">
+                    <a class="nav-link px-3 <?php echo $pagina == "inicio"? "active" : "" ?>" href="index.php">Inicio</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link <?php echo $pagina == "sobre-mi"? "active" : "" ?>" href="sobre-mi.php">Sobre mí</a>
+                    <li class="my-2 nav-item">
+                        <a class="nav-link px-3 <?php echo $pagina == "sobre-mi"? "active" : "" ?>" href="sobre-mi.php">Sobre mí</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link <?php echo $pagina == "proyectos"? "active" : "" ?>" href="proyectos.php">Proyectos</a>
+                    <li class="my-2 nav-item">
+                        <a class="nav-link px-3 <?php echo $pagina == "proyectos"? "active" : "" ?>" href="proyectos.php">Proyectos</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link <?php echo $pagina == "contacto"? "active" : "" ?>" href="contacto.php">Contacto</a>
+                    <li class="my-2 nav-item">
+                        <a class="nav-link px-3 <?php echo $pagina == "contacto"? "active" : "" ?>" href="contacto.php">Contacto</a>
                     </li>
                 </ul>
                 <div class="btn-h btn-rojo">

@@ -268,7 +268,7 @@ footer a, footer p{
     color: white !important;
     font-size: 13px;
 }
-#proyectos footer a, #proyectos footer span{
+#proyectos footer :is(a, span){
     color: #E20000 !important;
     font-size: 13px;
 }
@@ -296,3 +296,14 @@ footer a, footer p{
     color: #E20000;
 }
 
+@media (max-width: 1034px) {
+    #inicio #input-container {
+        padding-top: 380px;
+    }
+}
+
+@media (max-width: 767px) {
+    .navbar-nav li {
+        width: 100%;
+    }
+}
